@@ -2,4 +2,5 @@
 
 ## 23/6
 
-Añadir documentación sobre que es el proyecto y autores.
+- Documentación sobre que es el proyecto y autores.
+- Documentación sobre como utilizar el proyecto.
